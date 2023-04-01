@@ -1,0 +1,59 @@
+/* elearning course */
+.buttn3{
+    margin-top: 10vh;
+    border-radius: 30px;
+    padding: 2% 4% 2% 4%;
+    font-size: 1.5rem;
+    background-color: blueviolet;
+    color: white;
+    border: none;
+    margin-left: 1%;
+    font-weight: 400;
+  
+  }
+  
+  .buttn3:hover{
+    background-color: #292793;
+  }
+  
+  .himg>img{
+      height: 90vh;
+      width: auto;
+      /* margin-top: 30vh; */
+  }
+  
+  
+  
+  
+  .img2{
+      position: relative;
+      top: -40%;
+      right: -50%;
+      z-index: 1;
+  }
+  
+  .img3{
+      position: relative;
+      top: -40%;
+      right: 28%;
+  
+  }
+  
+  .img4{
+   position: relative;
+   top: -60%;
+   right: -12%;
+  
+  }
+  
+  .content2nd>h1{
+   color:#292793 ;
+  
+  }
+  .content2nd>p{
+      color:#292793 ;
+      font-size: 1.2rem;
+     
+     }
+  
+     /* elearning course */

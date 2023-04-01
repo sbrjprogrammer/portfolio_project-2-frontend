@@ -1,0 +1,151 @@
+.logo{
+    width: 170px;
+  }
+  
+  .link{
+      color: white;
+      text-decoration: none;
+      font-size: 1.3rem;
+  
+      font-weight: 400;
+  }
+  .nav{
+    background-color: #5606C1;
+    position: fixed;
+    top: 0;
+    z-index: 1000;
+  }
+  
+  /* .z1{
+      z-index: -1;
+  } */
+  
+  /* header section */
+  .gradient{
+    
+    background: url(../../assets/wave13.JPG);
+    background-size:cover;
+    height: 130vh;
+    
+    background-repeat: no-repeat;
+  
+  
+  }
+  
+  .marginheader{
+  padding-top: 15vh;
+  }
+  .fz>h1{
+      font-size: 5rem;
+  
+  }
+  .fz>h2{
+      font-size: 2.5rem;
+  }
+  .fz>p{
+      margin-top: 10vh;
+      font-size: 1.18rem;
+      font-weight: 500;
+  }
+  .img{
+      /* height: 100vh; */
+  }
+  
+  .buttn{
+      margin-top: 10vh;
+      border-radius: 30px;
+      padding: 2%;
+      padding-left: 4%;
+      padding-right: 4%;
+      font-size: 1.5rem;
+      background-color: rgb(255, 106, 109);
+      color: white;
+      border: none;
+      margin-left: 1%;
+      font-weight: 400;
+  
+  }
+  
+  .buttn:hover{
+    background-color: white;
+    color: #FF6A6D;
+  }
+  .buttn1{
+      margin-top: 10vh;
+      border-radius: 30px;
+      padding: 2% 4% 2% 4%;
+    
+      font-size: 1.5rem;
+      background: none;
+      color: rgb(255, 106, 109);
+      border-color: rgb(255, 106, 109);
+      margin-left: 1%;
+      font-weight: 400;
+  
+  
+  }
+  .buttn1:hover{
+    background-color: #FF6A6D;
+    color: #F5EEE6;
+  }
+  
+  /* header section */
+  
+  
+  /* elearning course */
+  .buttn3{
+    margin-top: 10vh;
+    border-radius: 30px;
+    padding: 2% 4% 2% 4%;
+    font-size: 1.5rem;
+    background-color: blueviolet;
+    color: white;
+    border: none;
+    margin-left: 1%;
+    font-weight: 400;
+  
+  }
+  
+  .buttn3:hover{
+    background-color: #292793;
+  }
+  
+  .himg>img{
+      height: 90vh;
+      width: auto;
+      /* margin-top: 30vh; */
+  }
+  
+  
+  
+  
+  .img2{
+      position: relative;
+      top: -40%;
+      right: -50%;
+      z-index: 1;
+  }
+  
+  .img3{
+      position: relative;
+      top: -40%;
+      right: 28%;
+  
+  }
+  
+  .img4{
+   position: relative;
+   top: -60%;
+   right: -12%;
+  
+  }
+  
+  .content2nd>h1{
+   color:#292793 ;
+  
+  }
+  .content2nd>p{
+      color:#292793 ;
+      font-size: 1.2rem;
+     
+     }

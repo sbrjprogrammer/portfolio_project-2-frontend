@@ -1,0 +1,51 @@
+
+
+.input{
+    padding: 1rem;
+    margin: 0.8rem;
+    border-radius: 20px;
+    border: none;
+    background-color: white;
+    width: 100%;
+   
+  }
+  
+  .text-area{
+    padding-top: 8rem;
+    padding-right: 10rem;
+    padding-left: 10rem;
+    border-radius: 20px;
+    border: none;
+    background-color: white;
+  }  
+/* form section */
+.buttn7{
+ 
+    background-color: blueviolet;
+    color: white;
+    border: none;
+  
+  }
+  
+  .buttn7:hover{
+    background-color: #030080;
+    cursor: pointer;
+  }
+  /* form section */
+  
+  
+  /* media query */
+  
+  @media (max-width: 979px) {
+    .imghid { 
+       display: none;
+    }
+  }
+  
+  @media (max-width: 428px) {
+    .content2nd { 
+      display: block;
+      justify-content: center;
+       margin-top: 40rem;
+    }
+  }

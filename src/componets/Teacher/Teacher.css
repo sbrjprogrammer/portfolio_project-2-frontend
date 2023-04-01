@@ -1,0 +1,27 @@
+
+.iconImge>img{
+    border-radius: 40px;
+  }
+  .iconImge:hover{
+    opacity: 0.7;
+    cursor: pointer;
+  }
+  
+  .cardteacher{
+    background-color: #F8F5F1;
+    border-radius: 40px;
+  }
+  
+  .buttn5{
+   
+    background-color: blueviolet;
+    color: white;
+    border: none;
+  
+  }
+  
+  .buttn5:hover{
+    background-color: #FF6A6D;
+    cursor: pointer;
+  }
+  

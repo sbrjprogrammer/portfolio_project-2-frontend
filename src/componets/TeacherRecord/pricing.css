@@ -1,0 +1,16 @@
+.cardpricing{
+    background-color: white;
+    border-radius: 30px;
+  }
+  
+  .priceCircle{
+    display: inline-block;
+    border-radius: 50px;
+    background-color:#F8F5F1;
+    padding: 1.5rem;
+  }
+  .priceHeight{
+    padding: 3rem;
+    /* height: 150vh; */
+  }
+  
